@@ -17,3 +17,4 @@ spec:
           image: sumithnc143/multi-client
           ports:
             - containerPort: 3000
+
